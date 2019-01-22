@@ -1,0 +1,5 @@
+INSERT INTO TIMEZONE (NAME, ALIAS, OFFSETTIME) VALUES ('America/Adak', 'America/Atka, US/Aleutian', '-10:00');
+INSERT INTO TIMEZONE (NAME, ALIAS, OFFSETTIME) VALUES ('America/Mexico_City', 'Mexico/General', '-06:00');
+INSERT INTO TIMEZONE (NAME, ALIAS, OFFSETTIME) VALUES ('America/Curacao', NULL, '-04:00');
+
+
